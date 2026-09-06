@@ -1,0 +1,28 @@
+KZ AutoEQ Tunings V1 — Subliminal
+
+Dark hypnotic tuning: deep controlled low end, smooth vocals, relaxed treble and enveloping atmosphere.
+
+Preamp: -4.0 dB
+
+Filter type: Peaking
+Format: Frequency (Hz) | Gain (dB) | Q
+
+    35 Hz | -0.8 dB | Q 0.70
+    60 Hz | +0.2 dB | Q 0.75
+    90 Hz | +0.4 dB | Q 0.80
+   160 Hz | -1.5 dB | Q 1.00
+   280 Hz | -1.0 dB | Q 1.00
+   500 Hz | -0.5 dB | Q 0.90
+   800 Hz | +0.1 dB | Q 0.90
+  1200 Hz | +0.6 dB | Q 1.00
+  1800 Hz | +0.8 dB | Q 1.00
+  2500 Hz | +0.6 dB | Q 0.90
+  3500 Hz | -0.2 dB | Q 0.90
+  5000 Hz | -0.8 dB | Q 0.80
+  7000 Hz | -1.0 dB | Q 0.80
+  9000 Hz | -0.5 dB | Q 0.80
+ 11500 Hz | +0.7 dB | Q 0.80
+ 14000 Hz | +1.2 dB | Q 0.70
+ 15500 Hz | +0.8 dB | Q 0.70
+
+Note: V1 is a listening-test starting point, not an objective certification.
