@@ -1,0 +1,17 @@
+KZ AutoEQ Tunings V1 — EDM + Rap
+
+10-band graphic EQ approximation
+Frequency (Hz) | Gain (dB)
+
+   31 | +0.8
+   62 | +1.6
+  125 | -0.3
+  250 | -1.4
+  500 | -0.1
+ 1000 | +1.7
+ 2000 | +3.0
+ 4000 | +1.8
+ 8000 | +1.6
+16000 | +1.6
+
+Suggested preamp: -3.5 dB
