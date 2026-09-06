@@ -1,0 +1,17 @@
+KZ AutoEQ Tunings V1 — Natural
+
+10-band graphic EQ approximation
+Frequency (Hz) | Gain (dB)
+
+   31 | +0.0
+   62 | +0.5
+  125 | -0.2
+  250 | -1.4
+  500 | +0.3
+ 1000 | +2.4
+ 2000 | +3.3
+ 4000 | +1.6
+ 8000 | +1.4
+16000 | +1.1
+
+Suggested preamp: -3.5 dB
