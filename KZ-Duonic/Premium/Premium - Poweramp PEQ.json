@@ -1,0 +1,23 @@
+{
+  "name": "KZ AutoEQ - Premium - V1",
+  "preamp": -3.5,
+  "parametric": true,
+  "bands": [
+    {"type": 0, "frequency": 31.0, "gain": 0.0, "q": 1.0},
+    {"type": 1, "frequency": 62.0, "gain": 0.0, "q": 1.0},
+    {"type": 2, "frequency": 85.0, "gain": 0.7, "q": 0.75},
+    {"type": 2, "frequency": 170.0, "gain": -1.0, "q": 1.0},
+    {"type": 2, "frequency": 280.0, "gain": -0.8, "q": 1.0},
+    {"type": 2, "frequency": 600.0, "gain": 0.4, "q": 0.9},
+    {"type": 2, "frequency": 1000.0, "gain": 0.8, "q": 0.9},
+    {"type": 2, "frequency": 1500.0, "gain": 1.5, "q": 1.0},
+    {"type": 2, "frequency": 2200.0, "gain": 1.7, "q": 1.0},
+    {"type": 2, "frequency": 3000.0, "gain": 0.8, "q": 0.9},
+    {"type": 2, "frequency": 3800.0, "gain": 0.3, "q": 0.9},
+    {"type": 2, "frequency": 5500.0, "gain": 0.2, "q": 0.8},
+    {"type": 2, "frequency": 7500.0, "gain": -0.3, "q": 0.8},
+    {"type": 2, "frequency": 9500.0, "gain": -0.2, "q": 0.8},
+    {"type": 2, "frequency": 12000.0, "gain": 1.0, "q": 0.8},
+    {"type": 2, "frequency": 15000.0, "gain": 0.8, "q": 0.7}
+  ]
+}
