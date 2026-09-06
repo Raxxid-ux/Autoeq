@@ -1,0 +1,26 @@
+KZ AutoEQ Tunings V1 — EDM + Rap
+
+Energetic tuning: stronger kick and sub impact, clean low mids, forward vocals and crisp rhythm detail.
+
+Preamp: -3.5 dB
+
+Filter type: Peaking
+Format: Frequency (Hz) | Gain (dB) | Q
+
+    35 Hz | +0.5 dB | Q 0.70
+    60 Hz | +0.8 dB | Q 0.75
+    90 Hz | +1.0 dB | Q 0.80
+   150 Hz | -1.3 dB | Q 1.00
+   250 Hz | -1.0 dB | Q 1.00
+   500 Hz | -0.2 dB | Q 0.90
+   900 Hz | +0.7 dB | Q 0.90
+  1300 Hz | +1.2 dB | Q 1.00
+  2000 Hz | +1.6 dB | Q 1.00
+  2800 Hz | +1.2 dB | Q 0.90
+  4000 Hz | +0.6 dB | Q 0.90
+  6000 Hz | +0.5 dB | Q 0.80
+  9000 Hz | +0.2 dB | Q 0.80
+ 12000 Hz | +1.0 dB | Q 0.80
+ 15000 Hz | +0.7 dB | Q 0.70
+
+Note: V1 is a listening-test starting point, not an objective certification.
