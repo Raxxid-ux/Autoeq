@@ -1,0 +1,25 @@
+KZ AutoEQ Tunings V1 — Premium
+
+Refined tuning: tight bass, polished vocals, layered detail, airy but controlled highs.
+
+Preamp: -3.5 dB
+
+Filter type: Peaking
+Format: Frequency (Hz) | Gain (dB) | Q
+
+    85 Hz | +0.7 dB | Q 0.75
+   170 Hz | -1.0 dB | Q 1.00
+   280 Hz | -0.8 dB | Q 1.00
+   600 Hz | +0.4 dB | Q 0.90
+  1000 Hz | +0.8 dB | Q 0.90
+  1500 Hz | +1.5 dB | Q 1.00
+  2200 Hz | +1.7 dB | Q 1.00
+  3000 Hz | +0.8 dB | Q 0.90
+  3800 Hz | +0.3 dB | Q 0.90
+  5500 Hz | +0.2 dB | Q 0.80
+  7500 Hz | -0.3 dB | Q 0.80
+  9500 Hz | -0.2 dB | Q 0.80
+ 12000 Hz | +1.0 dB | Q 0.80
+ 15000 Hz | +0.8 dB | Q 0.70
+
+Note: V1 is a listening-test starting point, not an objective certification.
