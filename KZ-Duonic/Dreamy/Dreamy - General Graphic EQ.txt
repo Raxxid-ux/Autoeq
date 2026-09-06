@@ -1,0 +1,17 @@
+KZ AutoEQ Tunings V1 — Dreamy
+
+10-band graphic EQ approximation
+Frequency (Hz) | Gain (dB)
+
+   31 | +0.0
+   62 | +0.4
+  125 | -0.2
+  250 | -0.5
+  500 | +0.8
+ 1000 | +2.0
+ 2000 | +2.5
+ 4000 | +0.2
+ 8000 | +0.3
+16000 | +1.3
+
+Suggested preamp: -3.5 dB
