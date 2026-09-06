@@ -1,0 +1,24 @@
+KZ AutoEQ Tunings V1 — Dreamy
+
+Soft atmospheric tuning: gentle kick, warm intimate vocals, relaxed presence and airy ambience.
+
+Preamp: -3.5 dB
+
+Filter type: Peaking
+Format: Frequency (Hz) | Gain (dB) | Q
+
+    80 Hz | +0.5 dB | Q 0.75
+   160 Hz | -0.7 dB | Q 1.00
+   280 Hz | -0.3 dB | Q 1.00
+   600 Hz | +0.8 dB | Q 0.90
+  1000 Hz | +1.0 dB | Q 0.90
+  1500 Hz | +1.4 dB | Q 1.00
+  2200 Hz | +1.2 dB | Q 1.00
+  3000 Hz | +0.5 dB | Q 0.90
+  4500 Hz | -0.2 dB | Q 0.80
+  6500 Hz | -0.5 dB | Q 0.80
+  8500 Hz | -0.2 dB | Q 0.80
+ 11000 Hz | +0.8 dB | Q 0.80
+ 14500 Hz | +0.9 dB | Q 0.70
+
+Note: V1 is a listening-test starting point, not an objective certification.
