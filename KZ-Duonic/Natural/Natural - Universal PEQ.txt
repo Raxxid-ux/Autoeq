@@ -1,0 +1,24 @@
+KZ AutoEQ Tunings V1 — Natural
+
+Reference tuning: controlled bass, slightly stronger kick, forward natural vocals, clear instruments, smooth treble.
+
+Preamp: -3.5 dB
+
+Filter type: Peaking
+Format: Frequency (Hz) | Gain (dB) | Q
+
+    90 Hz | +0.8 dB | Q 0.75
+   170 Hz | -1.2 dB | Q 1.00
+   300 Hz | -1.0 dB | Q 1.00
+   650 Hz | +0.5 dB | Q 0.90
+   900 Hz | +0.8 dB | Q 0.90
+  1300 Hz | +1.7 dB | Q 1.00
+  2000 Hz | +1.8 dB | Q 1.00
+  2800 Hz | +1.0 dB | Q 0.90
+  3500 Hz | +0.5 dB | Q 0.90
+  6000 Hz | +0.4 dB | Q 0.80
+  8500 Hz | +0.2 dB | Q 0.80
+ 11000 Hz | +0.8 dB | Q 0.80
+ 14500 Hz | +0.5 dB | Q 0.70
+
+Note: V1 is a listening-test starting point, not an objective certification.
