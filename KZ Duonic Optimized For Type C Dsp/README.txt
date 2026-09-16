@@ -1,5 +1,6 @@
 KZ Duonic DSP-compensated AutoEQ package
 ===========================================
+![KZ Duonic Type-C Toning Graph](https://github.com/Raxxid-ux/Autoeq/blob/main/KZ%20Duonic%20Optimized%20For%20Type%20C%20Dsp/KZ_Duonic_TypeC_Toning_Graph.png?raw=true)
 
 Purpose
 -------
